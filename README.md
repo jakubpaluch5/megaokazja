@@ -1,1 +1,1 @@
-# megaokazja
+# MegaOkazja - Woocommerce shop.
