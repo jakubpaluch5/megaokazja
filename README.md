@@ -1,1 +1,1 @@
-# MegaOkazja - Woocommerce shop..
+# MegaOkazja - Woocommerce shop.. test
