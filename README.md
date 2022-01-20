@@ -1,1 +1,1 @@
-# MegaOkazja - Woocommerce shop..
+# MegaOkazja - Woocommerce shop - Okazja, okazja taniej nie będzie..
