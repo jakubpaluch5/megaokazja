@@ -1,1 +1,1 @@
-# MegaOkazja - Woocommerce shop - Okazja, okazja taniej nie będzie..
+MegaOkazja - Woocommerce shop.. test - Okazja, okazja taniej nie będzie
